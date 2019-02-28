@@ -1,2 +1,2 @@
 # Stats_Modeling
-More formal examples of statistical models and graphing using R
+Tutorials in data visualization/statistical analysis in R, machine learning/CNN work in Python
